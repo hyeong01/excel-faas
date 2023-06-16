@@ -1,0 +1,21 @@
+/* style.css */
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .custom-file-label::after {
+    content: "Browse";
+  }
+  
+  .btn-primary {
+    width: 100%;
+  }
+  
